@@ -9,7 +9,7 @@ import 'package:flutter/foundation.dart';
 import 'Views/Messages/chat_messages.dart';
 
 void main() {
-  runApp(MyApp()
+  runApp(const MyApp()
     // DevicePreview(
     //   enabled: !kReleaseMode, // تمكين في وضع التطوير فقط
     //   builder: (context) => MyApp(),
